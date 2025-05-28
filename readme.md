@@ -10,7 +10,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Titulo** : MI Proyecto(nombre)
 
-**Web:**   (url github.io)
+**Web:**   https://clau8-mora.itch.io/memory-cromtico-invertido
 
 **Autor:**  (Nombre apellidos)
 
