@@ -81,14 +81,6 @@ Incluye: Título del juego,nombre del desarrollador, motor de juego,tipografía,
 ![esquema] 
 
 
-
-
-
-
-
-
-
-
 # 3. Metodología
 
 Se pensó en un público joven y creativo, interesado en juegos de memoria visual con un estilo artístico.
