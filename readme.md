@@ -168,6 +168,6 @@ Chat gpt(comunicación personal) como ayuda para los códigos en la creación de
 - Hippani Animator 5.1
 - Godot
 
-
-![licencia] (https://github.com/clau8-mora/cmi/blob/master/LICENSE)
+![licencia](https://github.com/clau8-mora/cmi/blob/master/licencia%20.jpg)
+![licencia](https://github.com/clau8-mora/cmi/blob/master/LICENSE)
 Mayo 2025
