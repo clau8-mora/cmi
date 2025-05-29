@@ -78,12 +78,12 @@ Incluye: Título del juego,nombre del desarrollador, motor de juego,tipografía,
 
 
 ### 2.2. Esquema de navegación 
-![esquema] 
+![esquema](https://github.com/clau8-mora/cmi/blob/master/Diagramadraw.jpg) 
 
 
 # 3. Metodología
 
-Se pensó en un público joven y creativo, interesado en juegos de memoria visual con un estilo artístico.
+Para este proyecto se pensó en un público joven y creativo, interesado en juegos de memoria visual con un estilo artístico.
 Diseño del concepto:
 Se definió una mecánica simple: encontrar parejas de imágenes entre grafitis originales y con colores invertidos, fomentando la atención visual.
 Prototipado y pruebas:
@@ -116,9 +116,9 @@ Orientado a personas jóvenes y adultas interesadas en juegos casuales, arte vis
 ### Etapa 2: Desarrollo / actividades realizadas
 
 Juego: Se desarrolló la mecánica de emparejar cartas, incluyendo efectos visuales, detección de parejas y una ardilla que sigue el cursor.
-Video: Se integró un video de YouTube dentro del menú, con opción de pausa y reproducción.
+Vídeo: Se integró un video de YouTube dentro del menú, con opción de pausa y reproducción.
 Instrucciones: Se añadió una breve explicación del juego en el menú principal para guiar al usuario.
-Menús y botones: Se crearon botones animados con sonidos, cada uno con un ícono representativo (bote, marco, claqueta, estrella). Se añadió un botón de casita en todas las pantallas para volver al menú.
+Menú y botones: Se crearon botones animados con sonidos, cada uno con un ícono representativo (bote, marco, claqueta, estrella). Se añadió un botón de casita en todas las pantallas para volver al menú.
 Galería: Se incluyó una galería con 6 imágenes de grafitis, accesible desde el menú.
 Créditos: Se diseñó una pantalla donde los créditos bajan desde arriba de forma automática.
 Sonido y animaciones: El juego tiene música de fondo, efectos al pulsar y animaciones en los botones.
@@ -154,7 +154,7 @@ Q Memory Juego de mesa - Vídeo tutorial subido por Consola y Tablero el 7 de ju
 https://www.youtube.com/watch?v=fYOKB-fp_I0
 
 Cómo usar Godot y Aprender desde CERO a hacer juegos subido por findemor el 24 de abril de 2024 https://www.youtube.com/watch?v=-_LiMyZGoXw
-Chat gpt(comunicación personal)
+Chat gpt(comunicación personal) como ayuda para los códigos en la creación del juego en Godot.
 
 **Recursos y materiales audiovisuales:**
 
