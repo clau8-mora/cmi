@@ -78,7 +78,7 @@ Incluye: Título del juego,nombre del desarrollador, motor de juego,tipografía,
 
 
 ### 2.2. Esquema de navegación 
-
+![esquema] 
 
 
 
