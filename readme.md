@@ -58,6 +58,14 @@ Estrella (Créditos): Transición a pantalla con créditos deslizándose de arri
 Extra: En cada pantalla aparece un icono de casita que devuelve al menú.
 
 3. Pantalla de Juego
+
+
+
+![juego](https://github.com/clau8-mora/cmi/blob/master/juego.jpg)
+
+
+
+
 Visual: Cartas dispuestas boca abajo, llevan un dibujo de estrella y pone memory cromático.
 Interacciones:
 Clic en cartas y se giran.
@@ -75,7 +83,12 @@ Texto: “¡Bien hecho! juego completado
 Visual: Fondo de collage con todas las cartas, las originales y las invertidas con efecto difumino.
 Animación: Texto con créditos deslizándose desde la parte superior hacia abajo.
 Incluye: Título del juego,nombre del desarrollador, motor de juego,tipografía, programación y diseño, imágenes y año.
+
+
+
   ![creditos](https://github.com/clau8-mora/cmi/blob/master/creditos.jpg) 
+
+  
 
 
 ### 2.2. Esquema de navegación 
