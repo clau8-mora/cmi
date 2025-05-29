@@ -75,6 +75,7 @@ Texto: “¡Bien hecho! juego completado
 Visual: Fondo de collage con todas las cartas, las originales y las invertidas con efecto difumino.
 Animación: Texto con créditos deslizándose desde la parte superior hacia abajo.
 Incluye: Título del juego,nombre del desarrollador, motor de juego,tipografía, programación y diseño, imágenes y año.
+  ![creditos](https://github.com/clau8-mora/cmi/blob/master/creditos.jpg) 
 
 
 ### 2.2. Esquema de navegación 
