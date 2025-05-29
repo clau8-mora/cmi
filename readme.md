@@ -79,6 +79,12 @@ Final de partida:
 La ardilla aparece celebrando.
 Texto: “¡Bien hecho! juego completado
 
+
+
+ ![pantallafinal](https://github.com/clau8-mora/cmi/blob/master/pantallafinal.jpg)
+ 
+
+
 4. Pantalla de Créditos 
 Visual: Fondo de collage con todas las cartas, las originales y las invertidas con efecto difumino.
 Animación: Texto con créditos deslizándose desde la parte superior hacia abajo.
