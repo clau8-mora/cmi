@@ -71,7 +71,7 @@ Final de partida:
 La ardilla aparece celebrando.
 Texto: “¡Bien hecho! juego completado
 
-4. Pantalla de Créditos
+4. Pantalla de Créditos 
 Visual: Fondo de collage con todas las cartas, las originales y las invertidas con efecto difumino.
 Animación: Texto con créditos deslizándose desde la parte superior hacia abajo.
 Incluye: Título del juego,nombre del desarrollador, motor de juego,tipografía, programación y diseño, imágenes y año.
@@ -81,7 +81,7 @@ Incluye: Título del juego,nombre del desarrollador, motor de juego,tipografía,
 
 
 
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
+
 
 
 
@@ -177,8 +177,5 @@ Chat gpt(comunicación personal)
 - Godot
 
 
-
-
-
-
+![licencia] (https://github.com/clau8-mora/cmi/blob/master/LICENSE)
 Mayo 2025
